@@ -246,6 +246,27 @@ def cmd_publiceer(args) -> int:
     return 2
 
 
+def cmd_site(args) -> int:
+    """Bouw feed en afspeelpagina opnieuw uit de bestaande afleveringen, zonder nieuwe audio."""
+    from . import site as site_mod
+
+    config = load_config()
+    BUILD.mkdir(exist_ok=True)
+    site = BUILD / "site"
+    parent = fetch_site(config, site)
+    episodes = site_mod.load_index(site)
+    if parent is None or not episodes:
+        log("Er staat nog geen site met afleveringen; gebruik eerst 'publiceer'.")
+        return 1
+    site_mod.write_site(site, episodes, [], config)
+    if args.lokaal:
+        log(f"Lokale proefversie staat in {site} (er is niets gepusht).")
+        return 0
+    push_site(config, site, parent, "Site opnieuw gebouwd")
+    log(f"Site gepusht naar {config['site_branch']} ({len(episodes)} afleveringen).")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="podcast.sh", description="Dagelijkse AI-nieuwspodcast")
     sub = parser.add_subparsers(dest="cmd", required=True)
@@ -263,6 +284,10 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--lokaal", action="store_true", help="alleen lokaal bouwen in build/site, niets pushen")
     p.add_argument("--wacht", type=float, default=6, help="minuten wachten tot de aflevering live staat")
     p.set_defaults(func=cmd_publiceer)
+
+    p = sub.add_parser("site", help="feed en afspeelpagina opnieuw bouwen zonder nieuwe aflevering")
+    p.add_argument("--lokaal", action="store_true", help="alleen lokaal bouwen in build/site, niets pushen")
+    p.set_defaults(func=cmd_site)
 
     args = parser.parse_args(argv)
     try:

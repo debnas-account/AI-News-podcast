@@ -4,6 +4,7 @@
 #   ./podcast.sh kandidaten              nieuwskandidaten van de afgelopen 26 uur ophalen
 #   ./podcast.sh controleer <aflevering> script controleren (opbouw, lengte) zonder audio te maken
 #   ./podcast.sh publiceer <aflevering>  audio maken, feed bijwerken en alles pushen
+#   ./podcast.sh site                    feed en afspeelpagina opnieuw bouwen, zonder nieuwe aflevering
 set -euo pipefail
 cd "$(dirname "$0")"
 

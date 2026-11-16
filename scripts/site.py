@@ -107,7 +107,28 @@ h1 span{color:var(--rasp)}
 .card.latest{border-top:4px solid var(--rasp)}
 h2{font-size:20px;line-height:1.2;margin:0 0 10px}
 .meta{color:var(--blue);font-size:15px;margin:0 0 12px}
-audio{width:100%;margin:8px 0 4px}
+.player{margin:14px 0 6px}
+.player audio{display:none}
+.seek{-webkit-appearance:none;appearance:none;display:block;width:100%;height:28px;margin:0;background:transparent;cursor:pointer;--p:0%}
+.seek::-webkit-slider-runnable-track{height:6px;border-radius:3px;background:linear-gradient(to right,var(--text) var(--p),rgba(245,248,255,.25) var(--p))}
+.seek::-moz-range-track{height:6px;border-radius:3px;background:linear-gradient(to right,var(--text) var(--p),rgba(245,248,255,.25) var(--p))}
+.seek::-webkit-slider-thumb{-webkit-appearance:none;appearance:none;width:18px;height:18px;margin-top:-6px;border-radius:50%;background:var(--text);border:0}
+.seek::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--text);border:0}
+.times{display:flex;justify-content:space-between;color:var(--blue);font-size:14px;font-variant-numeric:tabular-nums}
+.controls{display:flex;align-items:center;justify-content:center;gap:26px;margin-top:6px}
+.controls button{display:flex;align-items:center;justify-content:center;padding:0;border:0;border-radius:50%;cursor:pointer;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+.skip{width:64px;height:64px;background:transparent;color:var(--text)}
+.skip svg{width:52px;height:52px}
+.play{width:96px;height:96px;background:var(--text);color:var(--bg)}
+.play svg{width:44px;height:44px}
+.play .i-pause,.playing .play .i-play{display:none}
+.playing .play .i-pause{display:block}
+.controls button:active{transform:scale(.94)}
+.controls button:focus-visible{outline:3px solid var(--amber);outline-offset:3px}
+.older .play{width:72px;height:72px}
+.older .play svg{width:32px;height:32px}
+.older .skip{width:52px;height:52px}
+.older .skip svg{width:42px;height:42px}
 p{margin:0 0 12px}
 a{color:var(--blue)}
 details{margin-top:10px}
@@ -118,13 +139,81 @@ li{margin:0 0 6px;font-size:15px}
 .older .card{padding:16px}
 .feed{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
 .feed code{flex:1 1 240px;background:var(--bg);border-radius:10px;padding:10px 12px;font-size:13px;overflow-wrap:anywhere;color:var(--grey)}
-button{background:var(--rasp);color:var(--text);border:0;border-radius:10px;padding:10px 16px;font:inherit;font-weight:600;cursor:pointer}
+.feed button{background:var(--rasp);color:var(--text);border:0;border-radius:10px;padding:10px 16px;font:inherit;font-weight:600;cursor:pointer}
 ol{padding-left:20px;margin:8px 0 0}
 footer{color:var(--blue);font-size:14px;margin-top:28px}
 """
 
 
-def _episode_card(ep: dict, latest: bool) -> str:
+_SKIP_ARC = (
+    '<path d="M24 8A17 17 0 1 1 8 19.2"/><path d="M24 2.5 17.5 8 24 13.5"/>'
+)
+_SKIP_TEXT = (
+    '<text x="24" y="30.5" text-anchor="middle" font-size="14" font-weight="700" '
+    'font-family="Arial,Helvetica,sans-serif" fill="currentColor" stroke="none">10</text>'
+)
+_SVG = 'viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"'
+ICON_BACK = f"<svg {_SVG}>{_SKIP_ARC}{_SKIP_TEXT}</svg>"
+ICON_FWD = f'<svg {_SVG}><g transform="translate(48 0) scale(-1 1)">{_SKIP_ARC}</g>{_SKIP_TEXT}</svg>'
+ICON_PLAY = (
+    '<svg class="i-play" viewBox="0 0 48 48" fill="currentColor" aria-hidden="true"><path d="M17 9.5v29a2 2 0 0 0 3 1.7l23-14.5a2 2 0 0 0 0-3.4L20 7.8a2 2 0 0 0-3 1.7z"/></svg>'
+    '<svg class="i-pause" viewBox="0 0 48 48" fill="currentColor" aria-hidden="true"><rect x="11" y="8" width="9" height="32" rx="2.5"/><rect x="28" y="8" width="9" height="32" rx="2.5"/></svg>'
+)
+
+# Eigen speler: grote afspeelknop, tien seconden terug en vooruit, en dezelfde
+# knoppen op het vergrendelscherm (Media Session).
+PLAYER_JS = """
+(function(){
+var SKIP=10,players=document.querySelectorAll('.player');
+function fmt(s){s=Math.max(0,Math.round(s));return Math.floor(s/60)+':'+('0'+s%60).slice(-2)}
+players.forEach(function(p){
+var a=p.querySelector('audio'),play=p.querySelector('.play'),bar=p.querySelector('.seek'),
+cur=p.querySelector('.cur'),rem=p.querySelector('.rem'),known=parseFloat(p.dataset.duration)||0,drag=false;
+function dur(){return isFinite(a.duration)&&a.duration>0?a.duration:known}
+function show(t){var d=dur();bar.style.setProperty('--p',(d?t/d*100:0)+'%');cur.textContent=fmt(t);rem.textContent='-'+fmt(d-t)}
+function draw(){if(drag)return;var d=dur(),t=a.currentTime||0;bar.value=d?t/d*1000:0;show(t)}
+function seek(t){var d=dur();t=Math.min(Math.max(0,t),d?Math.max(0,d-0.3):t);
+if(a.readyState<1){a.preload='metadata';a.addEventListener('loadedmetadata',function(){a.currentTime=t},{once:true});a.load();show(t);bar.value=d?t/d*1000:0}
+else{a.currentTime=t;draw()}}
+function toggle(){if(a.paused){players.forEach(function(o){var x=o.querySelector('audio');if(x!==a)x.pause()});a.play()}else{a.pause()}}
+play.addEventListener('click',toggle);
+p.querySelector('.back').addEventListener('click',function(){seek((a.currentTime||0)-SKIP)});
+p.querySelector('.fwd').addEventListener('click',function(){seek((a.currentTime||0)+SKIP)});
+bar.addEventListener('input',function(){drag=true;show(bar.value/1000*dur())});
+bar.addEventListener('change',function(){drag=false;seek(bar.value/1000*dur())});
+['timeupdate','loadedmetadata','durationchange','seeked'].forEach(function(e){a.addEventListener(e,draw)});
+a.addEventListener('play',function(){p.classList.add('playing');play.setAttribute('aria-label','Pause');
+if('mediaSession' in navigator){try{
+navigator.mediaSession.metadata=new MediaMetadata({title:p.dataset.title,artist:p.dataset.show,artwork:[{src:'cover.png',sizes:'1400x1400',type:'image/png'}]});
+navigator.mediaSession.setActionHandler('play',function(){a.play()});
+navigator.mediaSession.setActionHandler('pause',function(){a.pause()});
+navigator.mediaSession.setActionHandler('seekbackward',function(){seek(a.currentTime-SKIP)});
+navigator.mediaSession.setActionHandler('seekforward',function(){seek(a.currentTime+SKIP)});
+navigator.mediaSession.setActionHandler('seekto',function(d){if(d&&d.seekTime!=null)seek(d.seekTime)});
+}catch(e){}}});
+function stopped(){p.classList.remove('playing');play.setAttribute('aria-label','Play')}
+a.addEventListener('pause',stopped);a.addEventListener('ended',stopped);
+draw();
+});
+})();
+"""
+
+
+def _player(ep: dict, latest: bool, show: str) -> str:
+    preload = "metadata" if latest else "none"
+    return f"""<div class="player" data-duration="{ep['duur']}" data-title="{escape(ep['titel'], quote=True)}" data-show="{escape(show, quote=True)}">
+<audio preload="{preload}" src="{escape(ep['bestand'], quote=True)}"></audio>
+<input class="seek" type="range" min="0" max="1000" step="1" value="0" aria-label="Position in episode">
+<div class="times"><span class="cur">0:00</span><span class="rem">-{_duur(ep['duur'])}</span></div>
+<div class="controls">
+<button type="button" class="skip back" aria-label="Back 10 seconds">{ICON_BACK}</button>
+<button type="button" class="play" aria-label="Play">{ICON_PLAY}</button>
+<button type="button" class="skip fwd" aria-label="Forward 10 seconds">{ICON_FWD}</button>
+</div>
+</div>"""
+
+
+def _episode_card(ep: dict, latest: bool, show: str = "") -> str:
     d = date.fromisoformat(ep["datum"])
     sources = ""
     if ep.get("bronnen"):
@@ -135,12 +224,11 @@ def _episode_card(ep: dict, latest: bool) -> str:
         )
         sources = f"<details><summary>Sources ({len(ep['bronnen'])})</summary><ul>{lis}</ul></details>"
     label = '<p class="label">Latest episode</p>' if latest else ""
-    preload = "metadata" if latest else "none"
     return f"""<section class="card{' latest' if latest else ''}">
 {label}<h2>{escape(ep['titel'])}</h2>
 <p class="meta">{escape(datum_voluit(d))} · {_duur(ep['duur'])} min</p>
-<p>{escape(ep['samenvatting'])}</p>
-<audio controls preload="{preload}" src="{escape(ep['bestand'], quote=True)}"></audio>
+{_player(ep, latest, show)}
+<p style="margin-top:14px">{escape(ep['samenvatting'])}</p>
 {sources}
 </section>"""
 
@@ -149,8 +237,8 @@ def build_index(episodes: list[dict], config: dict) -> str:
     base = config["base_url"].rstrip("/")
     feed_url = f"{base}/feed.xml"
     if episodes:
-        latest = _episode_card(episodes[0], True)
-        older = "".join(_episode_card(e, False) for e in episodes[1:])
+        latest = _episode_card(episodes[0], True, config["title"])
+        older = "".join(_episode_card(e, False, config["title"]) for e in episodes[1:])
         older = f'<p class="label" style="margin-top:28px">Earlier episodes</p><div class="older">{older}</div>' if older else ""
     else:
         latest, older = '<section class="card"><p>No episode has been published yet.</p></section>', ""
@@ -187,6 +275,7 @@ def build_index(episodes: list[dict], config: dict) -> str:
 </section>
 <footer>Compiled and voiced automatically by AI. Check important facts against the sources.</footer>
 </main>
+<script>{PLAYER_JS}</script>
 </body>
 </html>
 """
