@@ -1,0 +1,1340 @@
+[
+  {
+    "datum": "2026-11-28",
+    "titel": "OpenAI countersues Apple, banned Nvidia chips surface in Shanghai and Germany warns of autonomous attacks",
+    "samenvatting": "OpenAI files a countersuit accusing Apple of trade secret theft and pressuring shared suppliers, while a Bloomberg investigation finds restricted Nvidia Blackwell hardware at a Shanghai site linked to Alice Huang. Plus Germany's cybersecurity agency on autonomous attack frameworks, AI coding agents and the leaked GTA 6, Los Angeles schools switching off Google's AI Overviews, OpenAI's Athena data project, and a warning from the Dutch National Cyber Security Centre.",
+    "bestand": "audio/ai-news-2026-11-28.mp3",
+    "bytes": 4405789,
+    "duur": 550.7,
+    "gepubliceerd": "2026-11-28T04:26:32+01:00",
+    "bronnen": [
+      {
+        "titel": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+        "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+        "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "OpenAI countersues Apple for stealing trade secrets",
+        "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+        "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Restricted NVIDIA chips were installed at a Chinese data center linked to Alice Huang",
+        "url": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "Duitse cyberbeveiligingsauthoriteit waarschuwt voor toenemende dreiging zelfstandig opererende AI",
+        "url": "https://www.security.nl/posting/963387/Duitse+cyberbeveiligingsauthoriteit+waarschuwt+voor+toenemende+dreiging+zelfstandig+opererende+AI",
+        "bron": "Security.NL"
+      },
+      {
+        "titel": "Rockstar's AI dilemma: Can GTA 6's staggered release model survive coding agents?",
+        "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "LA school district blocks Google's AI search features",
+        "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+        "url": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Here's Why Anthropic Stock Rallied on Friday",
+        "url": "https://www.fool.com/investing/2026/11/27/why-anthropic-stock-rallied-on-friday-wall-street-analysts-say-buy-right-now/",
+        "bron": "The Motley Fool"
+      },
+      {
+        "titel": "Bouw Google-datacenter in België alsnog stilgelegd",
+        "url": "https://www.techzine.nl/nieuws/infrastructure/584464/bouw-google-datacenter-in-belgie-alsnog-stilgelegd/",
+        "bron": "Techzine"
+      },
+      {
+        "titel": "We'd be 'stupid' not to: Poland defends $300M military AI deal with Palantir",
+        "url": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/",
+        "bron": "Politico Europe"
+      },
+      {
+        "titel": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "NCSC waarschuwt voor gevaren van toegenomen gebruik van AI door bedrijven",
+        "url": "https://www.security.nl/posting/963395/NCSC+waarschuwt+voor+gevaren+van+toegenomen+gebruik+van+AI+door+bedrijven",
+        "bron": "Security.NL"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-27",
+    "titel": "Nvidia pauses Southeast Asia shipments, Microsoft maps an AI attack kit and math fuels encryption fears",
+    "samenvatting": "Nvidia halts server shipments to four Southeast Asian countries as the US closes the cloud loophole, and Chinese labs reportedly delay their next models. Plus Microsoft's analysis of the ARTEX attack framework, growing worries about AI and encryption, SAP's reported job cuts, and in the Netherlands a doubling of AI use by companies and a court case over Meta's camera glasses.",
+    "bestand": "audio/ai-news-2026-11-27.mp3",
+    "bytes": 3658058,
+    "duur": 457.2,
+    "gepubliceerd": "2026-11-27T04:22:33+01:00",
+    "bronnen": [
+      {
+        "titel": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+        "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+        "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+        "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+        "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+        "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+        "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+        "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+        "bron": "Wired"
+      },
+      {
+        "titel": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
+        "url": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "AI-gebruik door bedrijven verdubbeld, inhaalslag bij mkb'ers",
+        "url": "https://nos.nl/l/2641047",
+        "bron": "NOS"
+      },
+      {
+        "titel": "Rechter beslist over verbod op Meta-bril vanwege misbruik met stiekem filmen",
+        "url": "https://nos.nl/l/2641106",
+        "bron": "NOS"
+      },
+      {
+        "titel": "Kamervragen over impact van AI-modus Google Search op basisscholieren",
+        "url": "https://www.security.nl/posting/963285/Kamervragen+over+impact+van+AI-modus+Google+Search+op+basisscholieren",
+        "bron": "Security.NL"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-26",
+    "titel": "Amodei rejects the handover charge, states fight a Character.AI chat auction and S&P eyes Nvidia",
+    "samenvatting": "Dario Amodei pushes back on claims that Anthropic wants to hand governance to AI, while forty-two state attorneys general try to stop Character.AI from auctioning users' chats. Plus S&P's review of Nvidia's credit rating, US chip curbs biting Chinese AI labs, FCC approval for SpaceX's orbital data centers, New York's ban on AI toys, and an AI-assisted break-in at the Dutch ethical hacking collective DIVD.",
+    "bestand": "audio/ai-news-2026-11-26.mp3",
+    "bytes": 4872641,
+    "duur": 609.0,
+    "gepubliceerd": "2026-11-26T04:15:38+01:00",
+    "bronnen": [
+      {
+        "titel": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
+        "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+        "bron": "Axios"
+      },
+      {
+        "titel": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Character.AI's plan to auction off users' private chats challenged by state AGs",
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+        "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "S&P considers Nvidia credit downgrade over governance and 'key man' risks",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "S&P Says It May Downgrade Nvidia's Ratings on Governance Worries",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "AI Uncertainty Drives Wild Swings, Nasdaq Ends Down 0.6% After Sharp Selloff",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "US stocks close lower in volatile session as AI trade remains under pressure",
+        "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+        "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "FCC clears SpaceX to put up to a million satellites in orbit for Starmind data center network",
+        "url": "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/",
+        "bron": "GeekWire"
+      },
+      {
+        "titel": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Hochul vetoes AI safety bill; sets ban on chatbot toys",
+        "url": "https://www.yahoo.com/news/politics/articles/hochul-vetoes-ai-safety-bill-173700909.html",
+        "bron": "The Center Square via Yahoo News"
+      },
+      {
+        "titel": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+        "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+        "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Nederlandse hackersgroep zelf gehackt, 'door autonome AI-agents'",
+        "url": "https://nos.nl/l/2640968",
+        "bron": "NOS"
+      },
+      {
+        "titel": "DIVD-hackers gehackt door AI-agent",
+        "url": "https://www.techzine.nl/nieuws/security/584415/divd-hackers-gehackt-door-ai-agent/",
+        "bron": "Techzine"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-25",
+    "titel": "Lab insiders doubt their own safety measures, Anthropic falls below its IPO price and Tidal bans AI music",
+    "samenvatting": "Axios reports that employees at OpenAI and Anthropic fear their unreleased models are too risky to release, while Anthropic shares slip below their offering price and Jensen Huang apologizes to Nvidia staff. Plus a rise in AI-driven cyberattacks, Tidal's ban on fully AI-generated music, OpenAI's protein design results, a sobering agent benchmark, and a stark warning from the Dutch central bank.",
+    "bestand": "audio/ai-news-2026-11-25.mp3",
+    "bytes": 5007233,
+    "duur": 625.8,
+    "gepubliceerd": "2026-11-25T04:16:40+01:00",
+    "bronnen": [
+      {
+        "titel": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+        "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI and Anthropic employees are reportedly clashing with company leaders over AI safety",
+        "url": "https://gizmodo.com/openai-and-anthropic-employees-are-reportedly-clashing-with-company-leaders-over-ai-safety-2000844953",
+        "bron": "Gizmodo"
+      },
+      {
+        "titel": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Anthropic closes below IPO price as tech rally fades",
+        "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "In all-hands meeting, Jensen Huang thanks White House and says he's in therapy",
+        "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Amazon spots apparent open-source AI agent gaining unauthorized access",
+        "url": "https://gizmodo.com/amazon-says-open-source-ai-agent-mostly-autonomously-exploited-a-zero-day-2000844891",
+        "bron": "Gizmodo"
+      },
+      {
+        "titel": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+        "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "bron": "OpenAI"
+      },
+      {
+        "titel": "Even the best AI agents struggle with everyday life",
+        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "UN chief urges nations to establish AI safety safeguards within a year",
+        "url": "https://www.euronews.com/2026/11/24/un-chief-urges-nations-to-establish-ai-safety-safeguards-within-a-year",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "Ex-OpenAI staffer charged with planting bug is granted bail",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+        "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol",
+        "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Onrustige beurzen en cyberaanvallen: DNB ziet risico in snelle groei AI",
+        "url": "https://nos.nl/artikel/2640847-onrustige-beurzen-en-cyberaanvallen-dnb-ziet-risico-in-snelle-groei-ai",
+        "bron": "NOS"
+      },
+      {
+        "titel": "AI-risico's: DNB ziet stelsel leunen op paar techbedrijven",
+        "url": "https://tpo.nl/2026/11/24/dnb-ai-risicos-techbedrijven-pensioenfondsen/",
+        "bron": "TPO"
+      },
+      {
+        "titel": "Kort: Zuid-Holland deelt digitale monitor, BumaStemra dreigt met rechtszaak tegen ai-muziek",
+        "url": "https://www.computable.nl/2026/11/24/kort-zuid-holland-deelt-digitale-monitor-bumastemra-dreigt-met-rechtszaak-tegen-ai-muziek-en-meer/",
+        "bron": "Computable"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-24",
+    "titel": "Jensen Huang returns to Nvidia, Megaspeed blacklisted and OpenAI calls for shared limits",
+    "samenvatting": "Nvidia reinstates Jensen Huang as chief executive after pressure from President Trump, and the United States puts Megaspeed on its trade blacklist. Plus OpenAI publishing internal progress scores with a call for shared limits, Anthropic's Claude Ship, two states suing over Grok deepfakes, new allegations against a former OpenAI engineer, and OpenAI's Dots agents appearing in the Netherlands.",
+    "bestand": "audio/ai-news-2026-11-24.mp3",
+    "bytes": 4894785,
+    "duur": 611.8,
+    "gepubliceerd": "2026-11-24T04:14:55+01:00",
+    "bronnen": [
+      {
+        "titel": "Nvidia reverses course and brings Jensen Huang back as CEO",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Trump reportedly called into Nvidia board meeting to advocate for Huang's return",
+        "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
+        "url": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+        "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+        "bron": "BBC"
+      },
+      {
+        "titel": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+        "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+        "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+        "bron": "New York Times"
+      },
+      {
+        "titel": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Megaspeed Faces US Blacklist After Nvidia CEO Ouster, Sources Say",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+        "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Oregon and Virginia sue SpaceX over Grok's porn deepfakes",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+        "bron": "The Verge"
+      },
+      {
+        "titel": "States Sue SpaceX Over Grok Deepfakes",
+        "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+        "bron": "Wired"
+      },
+      {
+        "titel": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "bron": "Ars Technica"
+      },
+      {
+        "titel": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+        "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+        "bron": "New York Times"
+      },
+      {
+        "titel": "OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-23/openai-staffer-likely-captured-secrets-on-hidden-bug-us-says",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "OpenAI engineer possessed dozens of meeting recordings, say US prosecutors",
+        "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+        "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+        "bron": "CNBC"
+      },
+      {
+        "titel": "Amazon snaps up Decart's AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+        "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "VP ≠ VNP over every field",
+        "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+        "bron": "Anthropic on GitHub"
+      },
+      {
+        "titel": "Dots van OpenAI lijken binnen de EU uit te rollen",
+        "url": "https://www.bright.nl/nieuws/2161977/dots-van-openai-lijken-binnen-de-eu-uit-te-rollen.html",
+        "bron": "Bright"
+      },
+      {
+        "titel": "Hadrian breidt Nova uit: pentests starten vanuit CI-pipeline",
+        "url": "https://www.techzine.nl/nieuws/security/584307/hadrian-breidt-nova-uit-pentests-starten-vanuit-ci-pipeline/",
+        "bron": "Techzine"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-22",
+    "titel": "UN talks on autonomous weapons stall, Lean community certifies the Riemann proof and AI deals in cybersecurity",
+    "samenvatting": "A week of UN talks on lethal autonomous weapons ends without a mandate for a binding treaty, while the Lean and Mathlib communities certify the computer proof of the Riemann hypothesis made with Claude. Plus Amazon nearing a deal for Decart, CrowdStrike in talks to buy Zscaler, the widening Nvidia probe in California, and Etsy backing down on its AI policy.",
+    "bestand": "audio/ai-news-2026-11-22.mp3",
+    "bytes": 3907378,
+    "duur": 488.4,
+    "gepubliceerd": "2026-11-22T04:15:33+01:00",
+    "bronnen": [
+      {
+        "titel": "International talks on controlling use of autonomous weapons collapse",
+        "url": "https://www.aol.co.uk/articles/international-talks-controlling-autonomous-weapons-131529000.html",
+        "bron": "The Guardian via AOL"
+      },
+      {
+        "titel": "The U.S. and Russia block rules for autonomous killer robots",
+        "url": "https://bluewin.ch/en/news/international/the-u.s.-and-russia-block-rules-for-autonomous-killer-robots-li.3682236",
+        "bron": "blue News"
+      },
+      {
+        "titel": "Effort to regulate 'killer robots' delayed to 2028",
+        "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/",
+        "bron": "Politico Europe"
+      },
+      {
+        "titel": "The Riemann Hypothesis: joint statement by the Lean and Mathlib communities",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "bron": "Lean community blog"
+      },
+      {
+        "titel": "GRH verification record",
+        "url": "https://math.mit.edu/~drew/grh/",
+        "bron": "Andrew Sutherland, MIT"
+      },
+      {
+        "titel": "Lean and Mathlib Communities Certify Claude-Assisted Riemann Proof",
+        "url": "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+        "bron": "Unite.AI"
+      },
+      {
+        "titel": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+        "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+        "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Amazon set to seal Decart deal worth up to $7.5 billion within days",
+        "url": "https://www.calcalistech.com/ctechnews/article/uckadwd7r",
+        "bron": "Calcalist"
+      },
+      {
+        "titel": "Why CrowdStrike Is Eyeing a Buy of Zero Trust Titan Zscaler",
+        "url": "https://www.bankinfosecurity.com/blogs/crowdstrike-eyeing-buy-zero-trust-titan-zscaler-p-4264",
+        "bron": "BankInfoSecurity"
+      },
+      {
+        "titel": "Crowdstrike's Talks With Zscaler Show AI-Led Cyber Consolidation",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "California Nvidia Probe Covers Potential Criminal Law Violations",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+        "bron": "CNBC"
+      },
+      {
+        "titel": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Diverse verkopers verdwijnen van Etsy om AI-beleid, maar Etsy buigt",
+        "url": "https://www.bright.nl/nieuws/2161176/diverse-verkopers-verdwijnen-van-etsy-om-ai-beleid-maar-etsy-buigt.html",
+        "bron": "Bright"
+      },
+      {
+        "titel": "China Plans to Strengthen AI Token Standards in Computing Push",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Nvidia researchers argue huge AI context windows are a dead end",
+        "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+        "bron": "The Decoder"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-21",
+    "titel": "A claimed Riemann proof with Claude, an AI sell-off and Trump's data center threat",
+    "samenvatting": "An Anthropic mathematician says he proved the Riemann hypothesis working with Claude, while Wall Street suffers its worst week since the pandemic and Anthropic gives back much of its debut gain. Plus Trump's threatened tax on overseas data centers, Signal blocking operating system AI agents, METR's updated capability graph, OpenAI's defenses against distillation, and American pressure on the Dutch chip sector.",
+    "bestand": "audio/ai-news-2026-11-21.mp3",
+    "bytes": 4468669,
+    "duur": 558.5,
+    "gepubliceerd": "2026-11-21T04:15:03+01:00",
+    "bronnen": [
+      {
+        "titel": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Quoting Levent Alpöge",
+        "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "bron": "Simon Willison"
+      },
+      {
+        "titel": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+        "bron": "BBC"
+      },
+      {
+        "titel": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections",
+        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+        "bron": "NBC News"
+      },
+      {
+        "titel": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+        "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+        "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "bron": "The New York Times"
+      },
+      {
+        "titel": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash",
+        "url": "https://www.wral.com/news/ap/f1ac0-trump-says-he-plans-to-penalize-us-tech-companies-that-build-ai-data-centers-in-other-countries/",
+        "bron": "Associated Press via WRAL"
+      },
+      {
+        "titel": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+        "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+        "bron": "The New York Times"
+      },
+      {
+        "titel": "Restricting AI agents in mobile operating systems from capturing data",
+        "url": "https://signal.org/blog/protecting-your-privacy/",
+        "bron": "Signal"
+      },
+      {
+        "titel": "The most misunderstood graph in AI just got a major update",
+        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+        "bron": "MIT Technology Review"
+      },
+      {
+        "titel": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+        "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+        "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Cognition in Talks for $75 Billion Value With New Funding",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Cursor overweegt Chinese AI-modellen uit te faseren",
+        "url": "https://www.techzine.nl/nieuws/devops/584237/cursor-overweegt-chinese-ai-modellen-uit-te-faseren/",
+        "bron": "Techzine"
+      },
+      {
+        "titel": "Deutsche Telekom jaagt soevereine AI aan met 100 miljoen voor Mistral",
+        "url": "https://www.techzine.nl/nieuws/infrastructure/584232/deutsche-telekom-jaagt-soevereine-ai-aan-met-100-miljoen-voor-mistral/",
+        "bron": "Techzine"
+      },
+      {
+        "titel": "Amerikanen zetten de Nederlandse chipsector maximaal onder druk",
+        "url": "https://fd.nl/bedrijfsleven/1620300/amerikanen-zetten-de-nederlandse-chipsector-maximaal-onder-druk",
+        "bron": "Het Financieele Dagblad"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-20",
+    "titel": "Anthropic's first trading day, China chip licenses revealed and desktop agents from Apple and Google",
+    "samenvatting": "Anthropic closes its first day on Nasdaq well above its offer price while markets fall, and Congress publishes how many AI chips Commerce cleared for Chinese buyers. Plus Apple and Google moving into computer-use agents, an OpenAI agent that drifted into building a surveillance script, Trump and Xi on AI rules, an AI-assisted attack on the European Commission, and the Dutch privacy regulator's warning about AI camera glasses.",
+    "bestand": "audio/ai-news-2026-11-20.mp3",
+    "bytes": 4931159,
+    "duur": 616.3,
+    "gepubliceerd": "2026-11-20T04:16:11+01:00",
+    "bronnen": [
+      {
+        "titel": "Anthropic is now a public company worth more than $1 trillion",
+        "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Anthropic shares jump 17% after record Wall Street listing",
+        "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Anthropic Shares Drop Post-Market on Apple's AI Agent Plans",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Asian Chip Stocks Slide as Anthropic IPO Fails to Dispel AI Woes",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+        "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+        "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
+        "bron": "Al Jazeera"
+      },
+      {
+        "titel": "California Probing If Nvidia Misled Investors on China Risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+        "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Apple may be developing its own AI agent that runs your Mac",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Google gives Gemini the ability to use your Mac for you",
+        "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+        "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "US President Trump rejects global AI regulation as China's Xi calls for cooperation on safety",
+        "url": "https://www.euronews.com/2026/11/19/us-president-trump-rejects-global-ai-regulation-as-chinas-xi-calls-for-cooperation-on-safe",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "Cyberaanval legt HR-systemen Europese Commissie plat",
+        "url": "https://www.techzine.nl/nieuws/security/584190/cyberaanval-legt-hr-systemen-europese-commissie-plat/",
+        "bron": "Techzine"
+      },
+      {
+        "titel": "Palo Alto Networks koopt Applied Compute voor 4,5 miljard dollar",
+        "url": "https://www.techzine.nl/nieuws/security/584165/palo-alto-networks-koopt-applied-compute-voor-45-miljard-dollar/",
+        "bron": "Techzine"
+      },
+      {
+        "titel": "AI demand will push up interest rates around the world, IMF head warns",
+        "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+        "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Meta rethinks climate goal as AI emissions soar 45%",
+        "url": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
+        "bron": "Axios"
+      },
+      {
+        "titel": "Scoop: Trump names Kirsten Davies as new national cyber director",
+        "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+        "bron": "Axios"
+      },
+      {
+        "titel": "Autoriteit Persoonsgegevens: 'AI-camerabrillen brengen veiligheid in gevaar'",
+        "url": "https://nos.nl/l/2640119",
+        "bron": "NOS"
+      },
+      {
+        "titel": "Anthropic-beursgang is nu al jackpot voor Amsterdams Aiconic en klanten",
+        "url": "https://fd.nl/financiele-markten/1620119/anthropic-beursgang-is-nu-al-jackpot-voor-amsterdams-aiconic-en-klanten",
+        "bron": "Het Financieele Dagblad"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-19",
+    "titel": "Anthropic prices a record IPO, AI-found bugs strain the patch cycle and banks push agent risk onto customers",
+    "samenvatting": "Anthropic sets its share price at 83 dollars ahead of today's Nasdaq debut, while a Java flaw found with AI and a wave of outages put the speed of patching under pressure. Plus banks that make customers liable for their AI agents, Microsoft's cheaper in-house models, Google's Gemini 4 Neon, and Dutch data centers now using five percent of the country's electricity.",
+    "bestand": "audio/ai-news-2026-11-19.mp3",
+    "bytes": 4984666,
+    "duur": 623.0,
+    "gepubliceerd": "2026-11-19T04:16:09+01:00",
+    "bronnen": [
+      {
+        "titel": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+        "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Anthropic raises $81bn in record IPO",
+        "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Anthropic Raises $107.3 Billion to Top SpaceX's Record Debut",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Beurs waardeert Anthropic op 1,5 biljoen dollar",
+        "url": "https://www.computable.nl/2026/11/19/beurs-waardeert-anthropic-op-15-biljoen-dollar/",
+        "bron": "Computable"
+      },
+      {
+        "titel": "AI found a hole in Java, and it starts with 'AAAAAAAA...'",
+        "url": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "AI finds security flaw in Java, world's third-largest programming language",
+        "url": "https://www.euronews.com/2026/11/18/ai-finds-security-flaw-in-java-worlds-third-largest-programming-language",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "US tech outages blamed on rush to fix bugs found by AI",
+        "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "'Zero' evidence that recent cascade of tech outages are linked, says Rubio",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "More banks say customers using AI agents are on their own, even if they get hacked",
+        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "MAS Warns AI Agents Could Move Money Faster, Raise Finance Risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/mas-warns-ai-agents-could-move-money-faster-raise-finance-risks",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+        "url": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+        "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Introducing Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "bron": "Google"
+      },
+      {
+        "titel": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+        "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Sam Altman warns against a future where AI, not humans, calls the shots",
+        "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "AI borrowing binge has 'historic parallels' with subprime bubble, says ECB",
+        "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Nvidia's Outlook Cut to Stable by Moody's on Governance Concerns",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-18/moody-s-lowers-nvidia-s-ratings-outlook-to-stable-from-positive",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "The nation's largest school districts consider ditching Google Search",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+        "bron": "The Verge"
+      },
+      {
+        "titel": "Nederlandse datacentra slokken inmiddels 5 procent van alle stroom op",
+        "url": "https://www.bright.nl/nieuws/2160079/nederlandse-datacentra-slokken-inmiddels-5-procent-van-alle-stroom-op.html",
+        "bron": "Bright"
+      },
+      {
+        "titel": "ACM komt met AI-prompt om betrouwbaarheid webshops te controleren",
+        "url": "https://www.security.nl/posting/962142/ACM+komt+met+AI-prompt+om+betrouwbaarheid+webshops+te+controleren",
+        "bron": "Security.NL"
+      },
+      {
+        "titel": "Nederland aan kop met gebruik van AI op het werk, maar het kan nog veel beter",
+        "url": "https://www.ad.nl/economie/nederland-aan-kop-met-gebruik-van-ai-op-het-werk-maar-het-kan-nog-veel-beter~aa538e59/",
+        "bron": "AD"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-18",
+    "titel": "Nvidia shuts the door on Huang, OpenAI ships GPT-6.2 and Big Tech's stake in Anthropic",
+    "samenvatting": "Nvidia posts strong results, rules out Jensen Huang's return and stops selling H200 chips to China. Plus OpenAI's GPT-6.2 Astra and Sol, how much of Anthropic Amazon and Google will own after its listing, free Gemini agents and longer chat retention, a test that tricked AI models into marking civilians as targets, and Dutch researchers on Europe's cloud and AI plans.",
+    "bestand": "audio/ai-news-2026-11-18.mp3",
+    "bytes": 5113793,
+    "duur": 639.2,
+    "gepubliceerd": "2026-11-18T04:15:52+01:00",
+    "bronnen": [
+      {
+        "titel": "Nvidia says it doesn't plan to reappoint Jensen Huang as CEO",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+        "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Nvidia promises that revenue will keep soaring — for now",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Nvidia is abandoning China after Jensen Huang's ouster",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Jensen Huang to face US Congress interviews on Nvidia's sales to China on 1 December",
+        "url": "https://www.euronews.com/2026/11/17/jensen-huang-to-face-house-interviews-on-nvidias-sales-to-china-on-december-1",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "Onzekerheid rond AI trekt Amerikaanse beurzen verder in het rood",
+        "url": "https://fd.nl/financiele-markten/1619976/onzekerheid-rond-ai-trekt-amerikaanse-beurzen-verder-in-het-rood",
+        "bron": "Het Financieele Dagblad"
+      },
+      {
+        "titel": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+        "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Put Gemini to work for you",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+        "bron": "Google"
+      },
+      {
+        "titel": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+        "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
+        "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+        "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Oregon is the latest state to sue OpenAI over child safety",
+        "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+        "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "UvA-onderzoekers kritisch op EU-voorstel digitale autonomie",
+        "url": "https://www.computable.nl/2026/11/17/uva-onderzoekers-kritisch-op-eu-voorstel-digitale-autonomie/",
+        "bron": "Computable"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-17",
+    "titel": "California sues OpenAI over rogue agents, Washington closes the remote chip loophole",
+    "samenvatting": "California's attorney general takes OpenAI to court over the Hugging Face attack, while OpenAI lets outside safety evaluators in under tight limits. Plus new US rules on remote access to AI chips, fully automated cyberattacks, the voting structure behind Anthropic's IPO and Alibaba's Qwen4-Max.",
+    "bestand": "audio/ai-news-2026-11-17.mp3",
+    "bytes": 4817458,
+    "duur": 602.1,
+    "gepubliceerd": "2026-11-17T04:15:23+01:00",
+    "bronnen": [
+      {
+        "titel": "California sues OpenAI over Hugging Face attack",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo",
+        "bron": "BBC"
+      },
+      {
+        "titel": "California state AG sues OpenAI over rogue agent incidents",
+        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "California sues OpenAI over rogue AI hacking incidents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+        "bron": "The Verge"
+      },
+      {
+        "titel": "California sues OpenAI after that Hugging Face rogue hacking incident",
+        "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+        "bron": "Engadget"
+      },
+      {
+        "titel": "OpenAI will embed safety researchers to investigate AI subversion",
+        "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+        "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "US moves to cut China's remote access to AI chips",
+        "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+        "bron": "Ars Technica"
+      },
+      {
+        "titel": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+        "bron": "BBC"
+      },
+      {
+        "titel": "Nvidia's board is reportedly 'not considering' hiring Jensen Huang back",
+        "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+        "bron": "The Verge"
+      },
+      {
+        "titel": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+        "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "FBI says Artex AI open source hacking tool used to breach networks in 'under three hours'",
+        "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Anthropic Founders To Keep 50.1% Voting Control After IPO. AI Safety Trust Will Pick Most Directors.",
+        "url": "https://www.ibtimes.com/anthropic-founders-voting-power-planned-ipo-3809795",
+        "bron": "International Business Times"
+      },
+      {
+        "titel": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+        "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "US data centers now burn more electricity than a midsized country",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+        "bron": "The Verge"
+      },
+      {
+        "titel": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump",
+        "url": "https://finance.yahoo.com/economy/policy/articles/fed-modeling-ai-super-intelligence-183644026.html",
+        "bron": "Yahoo Finance"
+      },
+      {
+        "titel": "Countries to decide future of 'killer robots' at UN conference",
+        "url": "https://www.euronews.com/2026/11/16/countries-to-decide-future-of-killer-robots-at-un-conference",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "In hoeverre mag AI worden gebruikt bij het te koop zetten van huizen?",
+        "url": "https://www.bright.nl/plusplus/2159682/in-hoeverre-mag-ai-worden-gebruikt-bij-het-te-koop-zetten-van-huizen.html",
+        "bron": "Bright"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-16",
+    "titel": "Washington turns up the heat on Nvidia, Huang weighs a comeback and Meituan trains without Nvidia",
+    "samenvatting": "Treasury Secretary Scott Bessent puts Nvidia's export compliance under the spotlight while Jensen Huang reportedly discusses a return, ahead of a week with Nvidia's earnings and Anthropic's listing. Plus Meituan's open model trained on Chinese chips, Australia's central bank on AI and young workers, and Apple's AI health study.",
+    "bestand": "audio/ai-news-2026-11-16.mp3",
+    "bytes": 4467430,
+    "duur": 558.4,
+    "gepubliceerd": "2026-11-16T04:17:33+01:00",
+    "bronnen": [
+      {
+        "titel": "Did Nvidia use shell companies to sell advanced chips to China? US Treasury chief wants answers",
+        "url": "https://www.malaymail.com/news/money/2026/11/16/did-nvidia-use-shell-companies-to-sell-advanced-chips-to-china-us-treasury-chief-wants-answers/243438",
+        "bron": "Malay Mail (AFP)"
+      },
+      {
+        "titel": "Bessent questions did Nvidia \"goose\" earnings with suspect China chip sales",
+        "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo",
+        "bron": "Axios"
+      },
+      {
+        "titel": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+        "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
+        "bron": "The New York Times"
+      },
+      {
+        "titel": "Megaspeed says alleged Chinese spy, Alice Huang, left company last year",
+        "url": "https://www.euronews.com/2026/11/15/megaspeed-says-alleged-chinese-spy-alice-huang-left-company-last-year",
+        "bron": "Euronews"
+      },
+      {
+        "titel": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+        "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Nvidia stock steady as Jensen Huang reportedly weighs CEO comeback, Musk backs return",
+        "url": "https://finance.yahoo.com/markets/article/nvidia-stock-steady-as-jensen-huang-reportedly-weighs-ceo-comeback-musk-backs-return-015644730.html",
+        "bron": "Yahoo Finance"
+      },
+      {
+        "titel": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Anthropic heads to market with billions riding on AI's promise",
+        "url": "https://www.trtworld.com/article/f333e6626fca",
+        "bron": "TRT World"
+      },
+      {
+        "titel": "Morgan Stanley 'Max Overweight' Global Stocks on AI Cycle",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
+        "bron": "Bloomberg"
+      },
+      {
+        "titel": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+        "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+        "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Apple launches new app to study how people use AI for health",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o",
+        "bron": "BBC"
+      },
+      {
+        "titel": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+        "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+        "bron": "The Guardian"
+      },
+      {
+        "titel": "US and allies sign accord to protect AI supply chains from China",
+        "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "A step toward defining the Standard Model on a lattice",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "bron": "OpenAI"
+      },
+      {
+        "titel": "De zaak-Huang maakt duidelijk hoe riskant het bestuursmodel van de AI-sector is",
+        "url": "https://www.nrc.nl/nieuws/2026/11/15/de-zaak-huang-maakt-duidelijk-hoe-riskant-het-bestuursmodel-van-de-ai-sector-is-a4941433",
+        "bron": "NRC"
+      }
+    ]
+  },
+  {
+    "datum": "2026-11-15",
+    "titel": "Nvidia after Huang, Anthropic's compute dilemma and OpenAI reshuffles robotics",
+    "samenvatting": "A petition to bring back Jensen Huang, the search for his successor and a funding gap for AI startups. Plus Dario Amodei on the compute bet behind Anthropic's IPO, OpenAI folding its robotics team into research, a former Anthropic researcher calling for a pause, and AI-driven cyberattacks in Europe.",
+    "bestand": "audio/ai-news-2026-11-15.mp3",
+    "bytes": 4874713,
+    "duur": 609.3,
+    "gepubliceerd": "2026-11-15T08:19:14+01:00",
+    "bronnen": [
+      {
+        "titel": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Rene Haas wordt misschien de nieuwe topman van Nvidia",
+        "url": "https://www.bright.nl/nieuws/2158803/rene-haas-wordt-misschien-de-nieuwe-topman-van-nvidia.html",
+        "bron": "Bright"
+      },
+      {
+        "titel": "Where was Nvidia's security team?",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+        "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Asian governments react to Nvidia CEO Jensen Huang's exit",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "bron": "TechCrunch"
+      },
+      {
+        "titel": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+        "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+        "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "OpenAI reassigns robotics researchers to other teams",
+        "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+        "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+        "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+        "bron": "The Decoder"
+      },
+      {
+        "titel": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+        "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a",
+        "bron": "Financial Times"
+      },
+      {
+        "titel": "Japan-led probe finds 1,000 servers suspected of supporting AI-driven cyberattacks",
+        "url": "https://www.tbsnews.net/worldbiz/asia/japan-led-probe-finds-1000-servers-suspected-supporting-ai-driven-cyberattacks-1602766",
+        "bron": "The Business Standard"
+      },
+      {
+        "titel": "OpenAI geeft mensen een ChatGPT Wallet, maar die is voor hun AI-agent",
+        "url": "https://www.bright.nl/nieuws/2158910/openai-geeft-mensen-een-chatgpt-wallet-maar-die-is-voor-hun-ai-agent.html",
+        "bron": "Bright"
+      },
+      {
+        "titel": "Ethische hackers werden zelf gehackt met AI: 'De vingerafdrukken zaten overal'",
+        "url": "https://fd.nl/tech-en-innovatie/1618885/ethische-hackers-werden-zelf-gehackt-met-ai-de-vingerafdrukken-zaten-overal",
+        "bron": "Het Financieele Dagblad"
+      },
+      {
+        "titel": "Al dagen cyberaanvallen met autonoom AI-framework op grote Europese webwinkelorganisatie",
+        "url": "https://cloudexpo.nl/nieuws/al-dagen-cyberaanvallen-met-autonoom-ai-framework-op-grote-europese-webwinkelorganisatie",
+        "bron": "Cloud Expo"
+      }
+    ]
+  }
+]
